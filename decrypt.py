@@ -1,3 +1,5 @@
+#this is a note from Philip
+
 #program should ask for name,
 #ask if message should be encrypted or decrypted
 #ask for plaintext or ciphertext
